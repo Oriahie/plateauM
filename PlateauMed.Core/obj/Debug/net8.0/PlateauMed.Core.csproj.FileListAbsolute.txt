@@ -1,0 +1,12 @@
+C:\Users\emmanuel.oriahi\source\repos\PlateauMed\PlateauMed.Core\bin\Debug\net8.0\PlateauMed.Core.deps.json
+C:\Users\emmanuel.oriahi\source\repos\PlateauMed\PlateauMed.Core\bin\Debug\net8.0\PlateauMed.Core.dll
+C:\Users\emmanuel.oriahi\source\repos\PlateauMed\PlateauMed.Core\bin\Debug\net8.0\PlateauMed.Core.pdb
+C:\Users\emmanuel.oriahi\source\repos\PlateauMed\PlateauMed.Core\obj\Debug\net8.0\PlateauMed.Core.csproj.AssemblyReference.cache
+C:\Users\emmanuel.oriahi\source\repos\PlateauMed\PlateauMed.Core\obj\Debug\net8.0\PlateauMed.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emmanuel.oriahi\source\repos\PlateauMed\PlateauMed.Core\obj\Debug\net8.0\PlateauMed.Core.AssemblyInfoInputs.cache
+C:\Users\emmanuel.oriahi\source\repos\PlateauMed\PlateauMed.Core\obj\Debug\net8.0\PlateauMed.Core.AssemblyInfo.cs
+C:\Users\emmanuel.oriahi\source\repos\PlateauMed\PlateauMed.Core\obj\Debug\net8.0\PlateauMed.Core.csproj.CoreCompileInputs.cache
+C:\Users\emmanuel.oriahi\source\repos\PlateauMed\PlateauMed.Core\obj\Debug\net8.0\PlateauMed.Core.dll
+C:\Users\emmanuel.oriahi\source\repos\PlateauMed\PlateauMed.Core\obj\Debug\net8.0\refint\PlateauMed.Core.dll
+C:\Users\emmanuel.oriahi\source\repos\PlateauMed\PlateauMed.Core\obj\Debug\net8.0\PlateauMed.Core.pdb
+C:\Users\emmanuel.oriahi\source\repos\PlateauMed\PlateauMed.Core\obj\Debug\net8.0\ref\PlateauMed.Core.dll

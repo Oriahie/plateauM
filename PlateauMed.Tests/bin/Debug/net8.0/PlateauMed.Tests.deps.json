@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "PlateauMed.Tests/1.0.0": {
+        "runtime": {
+          "PlateauMed.Tests.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PlateauMed.Tests/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
